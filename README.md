@@ -3,8 +3,8 @@
 Copy directory and files, then follow cmds:
 
 1.) 'sudo docker build -t flask:latest .'
-2.) 'sudo docker run --name flask -p 5000:5000 flask:latest'
 
+2.) 'sudo docker run --name flask -p 5000:5000 flask:latest'
 
 Sources:
 
